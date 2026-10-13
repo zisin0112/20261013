@@ -1,0 +1,16 @@
+question,optionA,optionB,optionC,optionD,answer
+在 p5.js 中，哪一個指令可以建立指定寬度與高度的畫布？,background(255),"createCanvas(800, 600)","ellipse(100, 100, 50, 50)",frameRate(60),1
+在 p5.js 中，哪一個指令可以設定整個畫布的背景顏色？,"fill(255, 0, 0)",stroke(0),background(220),"text(""背景"", 10, 10)",2
+"ellipse(100, 80, 60, 40) 這一行程式的主要作用是什麼？",在畫布上畫出一個橢圓形,把畫布變成 100 × 80 像素,設定橢圓形的填色為黃色,讓程式暫停 60 秒,0
+p5.js 會持續重複執行哪一個函式，讓我們製作動畫？,setup(),windowResized(),mousePressed(),draw(),3
+在 p5.js 中，哪一個指令可以設定圖形的填滿顏色？,"fill(0, 150, 255)","line(0, 0, 100, 100)",noLoop(),"size(400, 400)",0
+在 p5.js 中，哪一個函式通常只在程式開始時執行一次？,draw(),setup(),mouseMoved(),keyPressed(),1
+哪一個指令可以在畫布上畫出一條線段？,"rect(20, 20, 80, 40)","line(10, 20, 100, 120)","circle(50, 50, 30)","point(10, 10, 20)",1
+"rect(20, 30, 100, 50) 中的前兩個數字通常代表什麼？",矩形的寬度與高度,矩形左上角的 x 與 y 座標,矩形的紅色與綠色,動畫的起始與結束時間,1
+哪一個指令可以設定線條的顏色？,"stroke(0, 100, 200)","fill(0, 100, 200)","background(0, 100, 200)",textSize(20),0
+哪一個指令可以設定文字的大小？,textAlign(CENTER),"textFont(""Arial"")",textSize(24),"text(""Hello"", 10, 10)",2
+mouseX 和 mouseY 在 p5.js 中通常用來取得什麼？,目前滑鼠的 x、y 座標,畫布的寬度與高度,目前的背景顏色,鍵盤按鍵的名稱,0
+哪一個函式可以在滑鼠被按下時執行程式？,mousePressed(),mouseReleased(),keyTyped(),windowResized(),0
+哪一個指令可以讓後續圖形不繪製外框線？,noFill(),noStroke(),noLoop(),clear(),1
+在 p5.js 中，哪一個指令可以隨機產生一個數值？,random(),round(),parseInt(),constrain(),0
+下列哪一行程式可以在畫布上顯示文字？,"write(""Hello"")","label(""Hello"")","text(""Hello"", 20, 30)","showText(""Hello"")",2
